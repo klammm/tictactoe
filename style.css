@@ -1,0 +1,21 @@
+/* My tic tac toe CSS file */
+
+div {
+}
+
+td {
+  border: 1px solid black;
+  padding: 10px;
+  height: 100px;
+  width: 200px;
+  text-align: center;
+  font-size: 100px;
+};
+
+table {
+  border: 1px solid black;
+  padding: 10px;
+}
+
+tr {
+}
